@@ -1,0 +1,13 @@
+{
+  "record_id": "rec-000171",
+  "phase": "index",
+  "metric": "cardinality",
+  "value": 45.9264,
+  "sample_size": 2389,
+  "digest": "c19ae02625d0454b642f216c70847a7c",
+  "window": {
+    "start": "2026-01-21",
+    "span_hours": 24
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
