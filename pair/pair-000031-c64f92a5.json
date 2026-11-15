@@ -1,0 +1,13 @@
+{
+  "record_id": "pair-000031",
+  "phase": "index",
+  "metric": "latency",
+  "value": 97.8635,
+  "sample_size": 2553,
+  "digest": "a5b4cf2043ac35538ce58f62fe9623e2",
+  "window": {
+    "start": "2026-01-20",
+    "span_hours": 12
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
