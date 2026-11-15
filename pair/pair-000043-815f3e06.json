@@ -1,0 +1,13 @@
+{
+  "record_id": "pair-000043",
+  "phase": "evaluate",
+  "metric": "staleness",
+  "value": 63.9813,
+  "sample_size": 2816,
+  "digest": "416cc0ac5f0f9621bf82082448e855a1",
+  "window": {
+    "start": "2026-03-27",
+    "span_hours": 168
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
