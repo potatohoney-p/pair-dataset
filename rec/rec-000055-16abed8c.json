@@ -1,0 +1,13 @@
+{
+  "record_id": "rec-000055",
+  "phase": "retrieve",
+  "metric": "latency",
+  "value": 5.6857,
+  "sample_size": 1989,
+  "digest": "2cf2ca4ace88119052275e44ee00e622",
+  "window": {
+    "start": "2026-05-03",
+    "span_hours": 12
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
